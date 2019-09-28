@@ -3525,7 +3525,7 @@ input, select, textarea {
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #0582CA;
+				color: #00A6FB;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -3563,7 +3563,7 @@ input, select, textarea {
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: #00A6FB;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {

@@ -151,6 +151,7 @@ input, select, textarea {
 
 			iframe {
 				overflow-x: hidden;
+				position: relative;
 				width: 200px;
 			}
 

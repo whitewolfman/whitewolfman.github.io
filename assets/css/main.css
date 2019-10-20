@@ -147,15 +147,6 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 380px) {
-
-			iframe {
-				overflow-x: hidden;
-				position: relative;
-				width: 200px;
-			}
-
-		}
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;

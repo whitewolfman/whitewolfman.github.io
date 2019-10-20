@@ -147,6 +147,14 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 380px) {
+
+			p .Game_widgets {
+				overflow-x: hidden;
+			}
+
+		}
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
